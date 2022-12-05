@@ -11,7 +11,7 @@ looking for work
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
 
-<button onClick="alertButton()"> Crawling to the top </button>
+<button onclick="alertButton()"> Crawling to the top </button>
 
 </body>
 
