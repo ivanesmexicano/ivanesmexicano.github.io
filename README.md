@@ -4,7 +4,7 @@ My main webpage to get a job
 <html>
 <head>
 <link rel="stylesheet" href="app.css"/>
-<title>ivanesmexicano</title>
+<title>ivanesmexicano looking for work</title>
 </head>
 <body>
 
