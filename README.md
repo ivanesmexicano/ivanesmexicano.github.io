@@ -76,7 +76,7 @@ PHONE
 
 <button onclick="alertButton()"> Crawling to the top </button>
 
-</body>
+
 
 <script scr="app.js"></script>
-</html>
+
