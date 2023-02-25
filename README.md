@@ -2,11 +2,11 @@
 # ivanesmexicano.github.io
 <center>
 Ivan Ali Novelo
-
+<p>
 <img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG" width="300" height="400">
-
-
-This is my main webpage to get a job
+ </p>
+<p>
+This is my main webpage to get a job<p>
   </center>
 <html>
 <head>
@@ -76,8 +76,7 @@ PHONE
   
   
   
-  </body>
-  
+ 
   
 
 
