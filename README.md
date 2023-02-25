@@ -1,7 +1,7 @@
 
 # ivanesmexicano.github.io
 <center>
-<header>Ivan Ali Novelo
+<header><font size="18">Ivan Ali Novelo</font>
 </header>
 <p>
 <img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG?raw=true" width="300" height="400">
