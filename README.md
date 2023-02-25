@@ -16,13 +16,13 @@ This is my webpage to get a job<p>
 </head>
 <body>
 Committed, responsible and goal-oriented data scientist and mechanical electrical engineer focused on finding creative solutions. 
-<h1>Data Scientist and Mechanical Engineer</h1>
+<h1>Data Scientist and Mechanical Engineer 	&#9773; </h1>
  
  <h2>
  SKILLS</h2>
 
 <p>
- Fluent English 
+	&#9773; Fluent English 
   </p><p>
  Python/R for data analysis
   <p>
