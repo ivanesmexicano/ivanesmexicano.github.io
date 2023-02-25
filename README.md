@@ -69,6 +69,13 @@ PHONE
 333 054 11 76
   </p>
   
+  <h2>
+    EDUCATION
+    
+  </h2>
+  
+  
+  
   </body>
   
   
