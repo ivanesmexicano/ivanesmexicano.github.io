@@ -153,8 +153,12 @@ CONTINENTAL GDL - Reliability Engineer </b>
               </p>
               <p>
 • Oscilloscope and electrical measurements
-               <p>
-  </p>
+               <p> 
+ <a href="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IVAN%20ALI%20after%20feb%20CV2023%20english.pdf">Download resume in pdf</a>
+</p>
+	
+	
+	
 &#9773;
 
 <button onclick="alertButton()"> Crawling to the top </button>
@@ -167,5 +171,5 @@ function alertButton() {
   alert("Remember! Data is everywhere, but is not information.");
 }
 </script
- 
+
  
