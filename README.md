@@ -1,12 +1,13 @@
 
 # ivanesmexicano.github.io
 <center>
-Ivan Ali Novelo
+<header>Ivan Ali Novelo
+</header>
 <p>
-<img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG?raw=true" width="150" height="200">
+<img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG?raw=true" width="300" height="400">
  </p>
 <p>
-This is my main webpage to get a job<p>
+This is my webpage to get a job<p>
   </center>
 <html>
 <head>
