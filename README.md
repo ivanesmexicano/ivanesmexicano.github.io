@@ -1,6 +1,4 @@
 
-<!DOCTYPE html>
-
 # ivanesmexicano.github.io
 
 Ivan Ali Novelo
@@ -18,33 +16,60 @@ Committed, responsible and goal-oriented data scientist and mechanical electrica
 <h1>Data Scientist and Mechanical Engineer</h1>
 
 <p>
- Fluent English
+ Fluent English 
+  </p>
  Python/R for data analysis
+  <p>
  Certificate GD&T metrologist
+    </p>
  Mechanical drawings and simulations
+  <p>
  Time series analysis
+    </p>
  Forecasting sales
+  <p>
  Data visualization & PowerBI
+    </p>
  Spatial Analysis
+  <p>
  Linear Regression Models
+    </p>
  Clustering K-Means/KNN
+  <p>
+    
  Support Vector Machines
+    </p>
  Neural Networks
+  <p>
+    
  VBA Macros
+    </p>
+  
  Price Optimization
+  <p>
  Machine Learning/Deep Learning
+    </p>
+  
  Natural language processing NLP</p>
-
-<a href="http://www.linkedin.com/in/ivan-ali-novelo">linkedin
-
-<a href="http://www.linkedin.com/in/ivan-ali-novelo">github
-
+<p>
+  
+  
+<a href="http://www.linkedin.com/in/ivan-ali-novelo">linkedin</a>
+<p>
+<a href="https://github.com/ivanesmexicano">github</a></p>
+  
+<p>
 EMAIL
 ivanesmexicano@gmail.com
-
+  </p>
+  <p>
 PHONE
 333 054 11 76
-
+  </p>
+  
+  
+  
+  
 
 
 <button onclick="alertButton()"> Crawling to the top </button>
