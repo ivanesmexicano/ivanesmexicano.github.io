@@ -122,17 +122,17 @@ AVNET SERVICES - Supply Chain Program Manager/Data Scientist</b>
        </p>
       <p>
       <b>
-CONTINENTAL GDL - Metrologist Engineer<b>
+CONTINENTAL GDL - Metrologist Engineer</b>
        </p>
         <p>
         
 <i>August 2017 – September 2019</i>
           </p>
          <p>
-• Program and perform measurements using CMM, drawing 
+• Program and perform measurements using CMM, drawing interpretation and GD&T calculations. 
           </p>
           <p>
-interpretation and GD&T calculations. 
+
            </p>
            <p>
            <b>
