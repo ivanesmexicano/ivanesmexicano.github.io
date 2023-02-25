@@ -96,34 +96,37 @@ PHONE
  </h3>
  
  <p>
- Grupo Financiero MEGA – Comercial Data Science Manager
+ <b>Grupo Financiero MEGA – Comercial Data Science Manager</b>
   </p>
   
   <p>
-February 2022 – Current (Temporal project)
+<i>February 2022 – Current (Temporal project)</i>
    </p>
    <p>
    
 • Creation of data driven reports to increase sales and improve processes. 
     </p>
     <p>
-AVNET SERVICES - Supply Chain Program Manager/Data Scientist
+    <b>
+AVNET SERVICES - Supply Chain Program Manager/Data Scientist</b>
      </p>
      <p>
-September 2019 – February 2022
+<i>September 2019 – February 2022</i>
       </p>
  
   <p>
-• Report supply chain reports and data analysis for constraint 
+• Report supply chain reports and data analysis for constraint items to provide timely answers.
    </p>
     <p>
-items to provide timely answers.
+    
        </p>
       <p>
-CONTINENTAL GDL - Metrologist Engineer
+      <b>
+CONTINENTAL GDL - Metrologist Engineer<b>
        </p>
         <p>
-August 2017 – September 2019
+        
+<i>August 2017 – September 2019</i>
           </p>
          <p>
 • Program and perform measurements using CMM, drawing 
@@ -132,10 +135,11 @@ August 2017 – September 2019
 interpretation and GD&T calculations. 
            </p>
            <p>
-CONTINENTAL GDL - Reliability Engineer 
+           <b>
+CONTINENTAL GDL - Reliability Engineer </b>
             </p>
             <p>
-December 2016 – August 2017
+<i>December 2016 – August 2017</i>
              </p>
              <p>
 • Reliability test execution; vibration, temperature & humidity, and IP testing. 
