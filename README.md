@@ -74,6 +74,17 @@ PHONE
     
   </h2>
   
+<p>ITESO (Instituto Tecnológico de Estudios Superiores de Occidente)</p>
+<p>2020 – 2022</p>
+<p>Master Degree in Data science</p>
+ 
+ <p></p>
+ <p></p>
+ <p></p>
+ 
+<p>Universidad de Guadalajara</p>
+<p>January 2011 – December 2016</p>
+<p>Bachelor degree by CENEVAL test and Excellence</p>
   
   
  
