@@ -1,12 +1,13 @@
 
 # ivanesmexicano.github.io
-
+<center>
 Ivan Ali Novelo
 
 <img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG" width="300" height="400">
 
 
 This is my main webpage to get a job
+  </center>
 <html>
 <head>
 <link rel="stylesheet" href="app.css"/>
