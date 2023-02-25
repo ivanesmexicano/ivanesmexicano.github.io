@@ -119,4 +119,8 @@ IP testing.
 
 
 <script scr="app.js"></script>
-
+<script>
+function myFunction() {
+  alert("I am an alert box!");
+}
+</script>
