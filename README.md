@@ -94,24 +94,56 @@ PHONE
    
    EXPERIENCE
  </h3>
+ 
+ <p>
  Grupo Financiero MEGA – Comercial Data Science Manager
-February 2022 – Current (Temporal project)
-• Creation of data driven reports to increase sales and improve 
-processes. 
-AVNET SERVICES - Supply Chain Program Manager/Data Scientist
-September 2019 – February 2022
-• Report supply chain reports and data analysis for constraint 
-items to provide timely answers.
-CONTINENTAL GDL - Metrologist Engineer
-August 2017 – September 2019
-• Program and perform measurements using CMM, drawing 
-interpretation and GD&T calculations. 
-CONTINENTAL GDL - Reliability Engineer 
-December 2016 – August 2017
-• Reliability test execution; vibration, temperature & humidity, and 
-IP testing. 
-• Oscilloscope and electrical measurements
+  </p>
   
+  <p>
+February 2022 – Current (Temporal project)
+   </p>
+   <p>
+   
+• Creation of data driven reports to increase sales and improve processes. 
+    </p>
+    <p>
+AVNET SERVICES - Supply Chain Program Manager/Data Scientist
+     </p>
+     <p>
+September 2019 – February 2022
+      </p>
+ 
+  <p>
+• Report supply chain reports and data analysis for constraint 
+   </p>
+    <p>
+items to provide timely answers.
+       </p>
+      <p>
+CONTINENTAL GDL - Metrologist Engineer
+       </p>
+        <p>
+August 2017 – September 2019
+          </p>
+         <p>
+• Program and perform measurements using CMM, drawing 
+          </p>
+          <p>
+interpretation and GD&T calculations. 
+           </p>
+           <p>
+CONTINENTAL GDL - Reliability Engineer 
+            </p>
+            <p>
+December 2016 – August 2017
+             </p>
+             <p>
+• Reliability test execution; vibration, temperature & humidity, and IP testing. 
+              </p>
+              <p>
+• Oscilloscope and electrical measurements
+               <p>
+  </p>
 
 
 <button onclick="alertButton()"> Crawling to the top </button>
@@ -121,7 +153,7 @@ IP testing.
 <script scr="app.js"></script>
 <script>
 function alertButton() {
-  alert("I am an alert box!");
+  alert("Remember! Data is everywhere, but is not information.");
 }
 </script
  
