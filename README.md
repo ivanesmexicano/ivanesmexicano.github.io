@@ -3,7 +3,7 @@
 <center>
 Ivan Ali Novelo
 <p>
-<img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG" width="150" height="200">
+<img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG?raw=true" width="150" height="200">
  </p>
 <p>
 This is my main webpage to get a job<p>
