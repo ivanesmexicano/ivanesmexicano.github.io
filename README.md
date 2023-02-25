@@ -3,6 +3,7 @@
 
 Ivan Ali Novelo
 
+<img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG">
 
 
 This is my main webpage to get a job
