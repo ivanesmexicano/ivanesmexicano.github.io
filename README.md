@@ -66,10 +66,17 @@ Committed, responsible and goal-oriented data scientist and mechanical electrica
   
 <p>
 EMAIL
-ivanesmexicano@gmail.com
+</p>
+<p>
+	<a href = "mailto: 
+ivanesmexicano@gmail.com">Send Email 
+	
+ivanesmexicano@gmail.com </a>
+	
   </p>
   <p>
-PHONE
+PHONE</p>
+	<p>
 333 054 11 76
   </p>
   
