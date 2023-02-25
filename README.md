@@ -1,7 +1,7 @@
 
-# ivanesmexicano.github.io
+# &#9773; ivanesmexicano.github.io &#9773;
 <center>
-<header><font size="18">Ivan Ali Novelo</font>
+<header><font size="18">&#9773; Ivan Ali Novelo &#9773; </font>
 </header>
 <p>
 <img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG?raw=true" width="300" height="400">
@@ -24,39 +24,39 @@ Committed, responsible and goal-oriented data scientist and mechanical electrica
 <p>
 	&#9773; Fluent English 
   </p><p>
- Python/R for data analysis
+&#9773; Python/R for data analysis
   <p>
- Certificate GD&T metrologist
+&#9773; Certificate GD&T metrologist
     </p><p>
- Mechanical drawings and simulations
+&#9773; Mechanical drawings and simulations
   <p>
- Time series analysis
+&#9773; Time series analysis
     </p><p>
- Forecasting sales
+&#9773; Forecasting sales
   <p>
- Data visualization & PowerBI
+&#9773; Data visualization & PowerBI
     </p><p>
- Spatial Analysis
+&#9773; Spatial Analysis
   <p>
- Linear Regression Models
+&#9773; Linear Regression Models
     </p><p>
- Clustering K-Means/KNN
-  <p>
-    
- Support Vector Machines
-    </p><p>
- Neural Networks
+&#9773; Clustering K-Means/KNN
   <p>
     
- VBA Macros
+&#9773; Support Vector Machines
     </p><p>
-  
- Price Optimization
+&#9773; Neural Networks
   <p>
- Machine Learning/Deep Learning
+    
+&#9773; VBA Macros
     </p><p>
   
- Natural language processing NLP</p>
+&#9773; Price Optimization
+  <p>
+&#9773; Machine Learning/Deep Learning
+    </p><p>
+  
+&#9773; Natural language processing NLP</p>
 <p>
   
   
@@ -92,7 +92,7 @@ PHONE
   
   <h3>
    
-   EXPERIENCE
+   EXPERIENCE &#9773;
  </h3>
  
  <p>
@@ -148,7 +148,7 @@ CONTINENTAL GDL - Reliability Engineer </b>
 • Oscilloscope and electrical measurements
                <p>
   </p>
-
+&#9773;
 
 <button onclick="alertButton()"> Crawling to the top </button>
 
