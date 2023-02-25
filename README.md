@@ -3,7 +3,7 @@
 
 Ivan Ali Novelo
 
-<img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG">
+<img src="https://github.com/ivanesmexicano/ivanesmexicano.github.io/blob/main/IMG_3081.JPG" width="200" height="40">
 
 
 This is my main webpage to get a job
@@ -18,46 +18,46 @@ Committed, responsible and goal-oriented data scientist and mechanical electrica
 
 <p>
  Fluent English 
-  </p>
+  </p><p>
  Python/R for data analysis
   <p>
  Certificate GD&T metrologist
-    </p>
+    </p><p>
  Mechanical drawings and simulations
   <p>
  Time series analysis
-    </p>
+    </p><p>
  Forecasting sales
   <p>
  Data visualization & PowerBI
-    </p>
+    </p><p>
  Spatial Analysis
   <p>
  Linear Regression Models
-    </p>
+    </p><p>
  Clustering K-Means/KNN
   <p>
     
  Support Vector Machines
-    </p>
+    </p><p>
  Neural Networks
   <p>
     
  VBA Macros
-    </p>
+    </p><p>
   
  Price Optimization
   <p>
  Machine Learning/Deep Learning
-    </p>
+    </p><p>
   
  Natural language processing NLP</p>
 <p>
   
   
 <a href="http://www.linkedin.com/in/ivan-ali-novelo">linkedin</a>
-<p>
-<a href="https://github.com/ivanesmexicano">github</a></p>
+<p><p>
+<a href="https://github.com/ivanesmexicano">github</a></p><p>
   
 <p>
 EMAIL
