@@ -8,7 +8,7 @@
  </p>
 <p>
 This is my webpage to get a job<p>
-  </center>
+  
 <html>
 <head>
 <link rel="stylesheet" href="app.css"/>
@@ -17,6 +17,9 @@ This is my webpage to get a job<p>
 <body>
 Committed, responsible and goal-oriented data scientist and mechanical electrical engineer focused on finding creative solutions. 
 <h1>Data Scientist and Mechanical Engineer</h1>
+ 
+ <h2>
+ SKILLS</h2>
 
 <p>
  Fluent English 
@@ -87,8 +90,27 @@ PHONE
 <p>January 2011 – December 2016</p>
 <p>Bachelor degree by CENEVAL test and Excellence</p>
   
-  
- 
+  <h3>
+   
+   EXPERIENCE
+ </h3>
+ Grupo Financiero MEGA – Comercial Data Science Manager
+February 2022 – Current (Temporal project)
+• Creation of data driven reports to increase sales and improve 
+processes. 
+AVNET SERVICES - Supply Chain Program Manager/Data Scientist
+September 2019 – February 2022
+• Report supply chain reports and data analysis for constraint 
+items to provide timely answers.
+CONTINENTAL GDL - Metrologist Engineer
+August 2017 – September 2019
+• Program and perform measurements using CMM, drawing 
+interpretation and GD&T calculations. 
+CONTINENTAL GDL - Reliability Engineer 
+December 2016 – August 2017
+• Reliability test execution; vibration, temperature & humidity, and 
+IP testing. 
+• Oscilloscope and electrical measurements
   
 
 
