@@ -4,3 +4,7 @@
 
 layout: home
 ---
+Porfolio
+**Ivan Ali** Novelo
+
+Data Scientist
