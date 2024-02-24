@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2023-12-27 13:48:04 -0600
+categories: jekyll update
+---
+
+
+Sigue dando clases Alberto Reyes? 
+- Lo comprendemos - decia el mejor profesor que he tenido. 
+Cuando estuve en el tercer semestre de psicologia, la materia de epistemologia la impartia Alberto Reyes. 
+Su clase fue el parteaguas, primero por la teoria del conocimiento, que me hizo cuestionar absolutamente todo y abandonar eventualmente esa carrera. 
+Pero tambien por el maestro. Yo habia tenido muchos profesores notables, desde los inteligentes y geniales, hasta los profundamente absurdos y locos. 
+Muchos admirables como Jorge F, en la primaria... Irma C en la secundaria y Rafa Q en la preparatoria y Luis R en la ingenieria. 
+Pero Alberto Reyes era otro pedo. 
+Esta es la mejor foto que encontre de el. Para empezar era medico y parecia que la bata estaba anadida como un caparazon. Estaba viejo en 2010, y me imagino que 10 agnos despues, esta mas viejo. 
+Encontre una noticia donde lo mencionan sobre una marcha de apoyo al sismo del 2017... y otra sobre una conferencia en el 2018. A lo que a mi respecta sigue vivo. 
+Viejo, calvo, moreno y jorobado. Un aspecto muy humilde, con movimientos lentos y amables. Miraba al piso y sonreia. 
+Su clase empezaba preguntando a todos como estabamos. Cuando alguien llegaba tarde, no lo recriminaba. Le decia que pasara, le preguntaba como estaba. Lo comprendia. 
+Y cuando explicaba aspectos de la epistemologia, se detenia y miraba a todos uno por uno, como una tortuga vieja. Y casi al azar pedia que alguien mas hablara. 
+Acostumbrados a responder como automatas, todos parafraseamos el libro de texto. 
+'La relacion entre objeto y sujeto no es intrinseca por si misma, etc" y el simplemente escuchaba. Pero escuchaba.
+Despues te agradecia. Pedia que le dijeras como esa fraccion de conocimiento te ayudaria en la vida. 
+Los ojos del salon se sentian, todos esperaban una respuesta. Pero si no la tenias, te comprendia. 
+Alberto Reyes daba ejemplos de como el era un sujeto, y como la escuela era un objeto. Y que de nigno, la escuela era un parque de diversiones y su relacion era ir a jugar a la escuela. Ahora grande, como maestro, la escuela es su trabajo y su vocacion. Su relacion habia cambiado. 
+Despues nos daba 17 referencias bibliograficas para leer. Yo las apuntaba todas en un cuaderno que ahora no puedo encontrar. Katia alguna vez hizo limpieza de mi cuarto y quizas tiro ese cuaderno, pero espero que no. 
+Una de las referencias bibliograficas era El Hombre en Busqueda de Sentido. Es la que mas recuerdo. 
+Nos decia que leerlas no era obligatorio, que si podias, seria excelente, pero si no, nos comprendia. 
+Nos pedia que hablaramos de lo que sabiamos. Que no teniamos que ser expertos en literatura o epistemologia para aportar algo a la clase. Nos decia que todos eramos expertos en la vida, en nuestra vida. Y que de eso se trataba su clase: de obtener nuevas herramientas para la vida. 
+Cuando dibuje a Alberto Reyes lo dibuje con un par de maletas. El nos decia que las herramientas son maletas que tenemos que llevar a todos lados. 
+Sabes jugar poker? Es una herramienta. Ajedrez, otra herramienta. Bailar, otra herramienta. 
+No te gusta bailar, te comprendemos. 
+Las matematicas te parecen dificiles, te comprendemos. 
+Nos decia que no habia mucho de que preocuparnos, pero que aprovecharamos su clase para adquirir nuevas herramientas. 
+Que esa era toda su mision. 
+Cuando estabamos en examenes finales, nos decia que si teniamos proyectos pendientes los hicieramos en su clase. 
+'A los que puedan ponerme atencion, que mejor. Y a los que no, los comprendo.'
+Y nos dijo que no dejaba tareas. Nos pedia que hicieramos un diario donde anotaramos lo que ibamos aprendiendo cada dia. 
+No lo revisaba, ni te preguntaba sobre el diario. 
+Decia que ese diario era un inventario de las herramientas que teniamos. 
+Yo hice muchas anotaciones en ese diario. Muchas las conservo. 
+Pero lo mas importante de su clase fue el nivel de consciencia con el que asisti. 
+Este segnor podia transmitir algo mas que conocimiento, era como si estuviera despierto y todos dormidos a su alrededor. 
+Alberto Reyes tenia tantas ganas de vivir que las contagiaba. 
+Hasta los mas apaticos pudimos aprender mucho de el. 
+Y llevo muchas de sus ensegnanzas en mi maleta. 
+No esta muerto que yo sepa, pero si lo ven por ahi, diganle que hoy hice un dibujo de el.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
